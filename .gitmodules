@@ -1,6 +1,4 @@
 [submodule "PaStA-resources"]
 	path = resources
-	url = https://github.com/lfd/PaStA-resources.git
+	url = https://github.com/rsarky/PaStA-resources.git
 	branch = master
-[submodule "./resources/"]
-	url = https://github.com/rsarky/PaStA-resources
